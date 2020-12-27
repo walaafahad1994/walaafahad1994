@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about DevOps , ios , java
 - 📫 How to reach me: Walaafahad1993@gmail.com
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?walaafahad1994=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
